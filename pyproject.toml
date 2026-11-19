@@ -1,0 +1,13 @@
+[project]
+name = "cuelab"
+version = "0.1.0"
+description = "Resumable, fair-share cue sheet engine with a Live365 MultiTrack exporter"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

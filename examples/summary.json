@@ -1,0 +1,180 @@
+{
+  "show": {
+    "id": "demo58min",
+    "station_id": "kdlt",
+    "title": "Friday Night Northern Mix",
+    "duration_s": 3480.0,
+    "status": "done",
+    "upload_path": "/tmp/tmpet4jsrem/uploads/demo58min/audio.mp3",
+    "created_seq": 1,
+    "finished_at": 1795127032.7802565
+  },
+  "upload_deleted": true,
+  "metered_hours": 0.967,
+  "tracks": [
+    {
+      "offset_s": 0.0,
+      "media_type": "talk",
+      "title": "Talk",
+      "artist": "DJ Aurora",
+      "album": "",
+      "label": "",
+      "isrc": ""
+    },
+    {
+      "offset_s": 30.0,
+      "media_type": "music",
+      "title": "Aurora Spruce",
+      "artist": "Delta Rail",
+      "album": "Cabin Sessions",
+      "label": "Borealis Records",
+      "isrc": "US-X23-25-81482"
+    },
+    {
+      "offset_s": 270.0,
+      "media_type": "music",
+      "title": "Moose Aurora",
+      "artist": "The Northern Lights",
+      "album": "Frozen Sessions",
+      "label": "Borealis Records",
+      "isrc": "US-X39-24-88907"
+    },
+    {
+      "offset_s": 420.0,
+      "media_type": "music",
+      "title": "Cabin Glacier",
+      "artist": "Tanana Drift",
+      "album": "Cabin Sessions",
+      "label": "Yukon Sound",
+      "isrc": "US-X85-22-10851"
+    },
+    {
+      "offset_s": 600.0,
+      "media_type": "music",
+      "title": "Highway Moose",
+      "artist": "Kenai Blue",
+      "album": "Spruce Sessions",
+      "label": "Borealis Records",
+      "isrc": "US-X37-26-54118"
+    },
+    {
+      "offset_s": 840.0,
+      "media_type": "talk",
+      "title": "Talk",
+      "artist": "DJ Aurora",
+      "album": "",
+      "label": "",
+      "isrc": ""
+    },
+    {
+      "offset_s": 930.0,
+      "media_type": "music",
+      "title": "Tundra Tundra",
+      "artist": "Copper River Band",
+      "album": "Spruce Sessions",
+      "label": "Borealis Records",
+      "isrc": "US-X68-24-26361"
+    },
+    {
+      "offset_s": 1140.0,
+      "media_type": "music",
+      "title": "Moose Frozen",
+      "artist": "Copper River Band",
+      "album": "Spruce Sessions",
+      "label": "Coldwater Music",
+      "isrc": "US-X89-26-57400"
+    },
+    {
+      "offset_s": 1440.0,
+      "media_type": "music",
+      "title": "Frozen Aurora",
+      "artist": "Midnight Sun Trio",
+      "album": "Cabin Sessions",
+      "label": "Yukon Sound",
+      "isrc": "US-X20-26-40512"
+    },
+    {
+      "offset_s": 1650.0,
+      "media_type": "music",
+      "title": "Moose Spruce",
+      "artist": "Tanana Drift",
+      "album": "Tundra Sessions",
+      "label": "Borealis Records",
+      "isrc": "US-X57-22-37460"
+    },
+    {
+      "offset_s": 1950.0,
+      "media_type": "talk",
+      "title": "Talk",
+      "artist": "DJ Aurora",
+      "album": "",
+      "label": "",
+      "isrc": ""
+    },
+    {
+      "offset_s": 2070.0,
+      "media_type": "music",
+      "title": "Frozen Embers",
+      "artist": "Midnight Sun Trio",
+      "album": "Highway Sessions",
+      "label": "Coldwater Music",
+      "isrc": "US-X41-21-70589"
+    },
+    {
+      "offset_s": 2340.0,
+      "media_type": "music",
+      "title": "Glacier Cabin",
+      "artist": "Midnight Sun Trio",
+      "album": "Tundra Sessions",
+      "label": "Borealis Records",
+      "isrc": "US-X39-26-14207"
+    },
+    {
+      "offset_s": 2550.0,
+      "media_type": "music",
+      "title": "Moose Spruce",
+      "artist": "The Northern Lights",
+      "album": "Cabin Sessions",
+      "label": "Coldwater Music",
+      "isrc": "US-X50-21-95909"
+    },
+    {
+      "offset_s": 2820.0,
+      "media_type": "music",
+      "title": "Lantern Highway",
+      "artist": "Kenai Blue",
+      "album": "Highway Sessions",
+      "label": "Borealis Records",
+      "isrc": "US-X81-24-44438"
+    },
+    {
+      "offset_s": 3030.0,
+      "media_type": "talk",
+      "title": "Talk",
+      "artist": "DJ Aurora",
+      "album": "",
+      "label": "",
+      "isrc": ""
+    },
+    {
+      "offset_s": 3180.0,
+      "media_type": "music",
+      "title": "Embers Moose",
+      "artist": "Kenai Blue",
+      "album": "Cabin Sessions",
+      "label": "Borealis Records",
+      "isrc": "US-X75-23-21915"
+    },
+    {
+      "offset_s": 3390.0,
+      "media_type": "music",
+      "title": "Frozen Highway",
+      "artist": "Midnight Sun Trio",
+      "album": "Highway Sessions",
+      "label": "Coldwater Music",
+      "isrc": "US-X64-24-18326"
+    }
+  ],
+  "marker_fit_notes": [],
+  "live365_warnings": []
+}

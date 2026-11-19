@@ -1,0 +1,89 @@
+PERFORMER "KDLT"
+TITLE "Friday Night Northern Mix"
+FILE "friday-night.mp3" MP3
+  TRACK 01 AUDIO
+    TITLE "Talk"
+    PERFORMER "DJ Aurora"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Aurora Spruce"
+    PERFORMER "Delta Rail"
+    ISRC USX232581482
+    INDEX 01 00:30:00
+  TRACK 03 AUDIO
+    TITLE "Moose Aurora"
+    PERFORMER "The Northern Lights"
+    ISRC USX392488907
+    INDEX 01 04:30:00
+  TRACK 04 AUDIO
+    TITLE "Cabin Glacier"
+    PERFORMER "Tanana Drift"
+    ISRC USX852210851
+    INDEX 01 07:00:00
+  TRACK 05 AUDIO
+    TITLE "Highway Moose"
+    PERFORMER "Kenai Blue"
+    ISRC USX372654118
+    INDEX 01 10:00:00
+  TRACK 06 AUDIO
+    TITLE "Talk"
+    PERFORMER "DJ Aurora"
+    INDEX 01 14:00:00
+  TRACK 07 AUDIO
+    TITLE "Tundra Tundra"
+    PERFORMER "Copper River Band"
+    ISRC USX682426361
+    INDEX 01 15:30:00
+  TRACK 08 AUDIO
+    TITLE "Moose Frozen"
+    PERFORMER "Copper River Band"
+    ISRC USX892657400
+    INDEX 01 19:00:00
+  TRACK 09 AUDIO
+    TITLE "Frozen Aurora"
+    PERFORMER "Midnight Sun Trio"
+    ISRC USX202640512
+    INDEX 01 24:00:00
+  TRACK 10 AUDIO
+    TITLE "Moose Spruce"
+    PERFORMER "Tanana Drift"
+    ISRC USX572237460
+    INDEX 01 27:30:00
+  TRACK 11 AUDIO
+    TITLE "Talk"
+    PERFORMER "DJ Aurora"
+    INDEX 01 32:30:00
+  TRACK 12 AUDIO
+    TITLE "Frozen Embers"
+    PERFORMER "Midnight Sun Trio"
+    ISRC USX412170589
+    INDEX 01 34:30:00
+  TRACK 13 AUDIO
+    TITLE "Glacier Cabin"
+    PERFORMER "Midnight Sun Trio"
+    ISRC USX392614207
+    INDEX 01 39:00:00
+  TRACK 14 AUDIO
+    TITLE "Moose Spruce"
+    PERFORMER "The Northern Lights"
+    ISRC USX502195909
+    INDEX 01 42:30:00
+  TRACK 15 AUDIO
+    TITLE "Lantern Highway"
+    PERFORMER "Kenai Blue"
+    ISRC USX812444438
+    INDEX 01 47:00:00
+  TRACK 16 AUDIO
+    TITLE "Talk"
+    PERFORMER "DJ Aurora"
+    INDEX 01 50:30:00
+  TRACK 17 AUDIO
+    TITLE "Embers Moose"
+    PERFORMER "Kenai Blue"
+    ISRC USX752321915
+    INDEX 01 53:00:00
+  TRACK 18 AUDIO
+    TITLE "Frozen Highway"
+    PERFORMER "Midnight Sun Trio"
+    ISRC USX642418326
+    INDEX 01 56:30:00
